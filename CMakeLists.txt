@@ -4,6 +4,7 @@ set(CMAKE_USE_RELATIVE_PATHS TRUE)
 project("TestAbs")
 set("PROJECT_DESCRIPTION" "An abstraction layer around C++ testing frameworks")
 set("PROJECT_HOMEPAGE_URL" "https://github.com/KAbs/${PROJECT_NAME}.cpp")
+message(STATUS "We have moved from M$ GitHub to ${PROJECT_HOMEPAGE_URL}, read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo . ")
 
 set(CPACK_PACKAGE_VENDOR "KOLANICH")
 set(CPACK_PACKAGE_VERSION_MAJOR "0")
